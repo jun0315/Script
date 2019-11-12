@@ -36,6 +36,8 @@
 ;close the file
 <!q::Send {LAlt Down}{f4}{LAlt Up}
 <!w::Send {ctrl down}{w}{ctrl up}
+<!a::Send {ctrl down}{a}{ctrl up}
+
 
 <!e::Send {ctrl down}{tab}{ctrl up}
 <!r::Send {ctrl down}{shift down}{tab}{shift up}{ctrl up}

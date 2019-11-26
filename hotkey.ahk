@@ -30,6 +30,8 @@
 <!g::Send {Home}
 <!;::Send {End}
 
+;shielding cap
+CapsLock::Send {}
 ;xkill
 ^!k::run H:\Python\xkill.exe
 
